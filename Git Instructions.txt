@@ -1,7 +1,4 @@
-Git commands
-
-Friday, April 13, 2018
-2:44 PM
+GIT COMMANDS
 
 Remove a commit
 Git checkout <first 7 characters of the commit ID>
